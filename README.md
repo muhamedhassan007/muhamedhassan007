@@ -1,4 +1,4 @@
- Hi I'm mohamed 👋:
+ <h3>Hi I'm mohamed 👋:</h3>
 🎓Recent computer science graduate from Alexandria University 
 📫 You can reach me with the links below
 
