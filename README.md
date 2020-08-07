@@ -13,4 +13,4 @@
 -->
 <h5>Language I use :</h5>
 <a href="https://www.linkedin.com/in/muhamedhassan007/">
-<img  alt="Twitter" src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/Linkedin-Logo.png" >
+<img  alt="Twitter" src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/Linkedin-Logo.png" width="10%" height="10%" >
