@@ -1,15 +1,15 @@
 <h3>Hi I'm mohamed 👋:</h3>
 <h6>🎓Recent computer science graduate from Alexandria University </h6>
 <h6>📫 You can reach me with the links below</h6>
-<!-- <p align="center"> -->
+ <align="center"> 
 <a href="https://www.linkedin.com/in/muhamedhassan007/">
 <img align="center alt="Twitter" src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/Linkedin-Logo.png" width="7%" height="7%" >
 <a href="https://twitter.com/muhamed2711">
 <img align="center alt="Twitter" src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/twitter.jpg" width="7%" height="7%" >
 
 
-<!-- </p> -->
-<!-- <a href="https://twitter.com/muhamed2711"></a>
+ </p>
+
 <a href="https://www.instagram.com/muhamed.hassan_x/?hl=en"></a> -->
 
  <img src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/logo.gif" align="right" width="25%"> 
