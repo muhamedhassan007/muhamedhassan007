@@ -1,5 +1,5 @@
 <img src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/logo.gif" align="right" width="25%"> 
-<h3>Hi I'm mohamed 👋:</h3>
+<h3>Hi I'm Mohamed 👋:</h3>
 <h5>🎓Recent computer science graduate from Alexandria University </h5>
 <h5>📫 You can reach me with the links below</h5>
   
