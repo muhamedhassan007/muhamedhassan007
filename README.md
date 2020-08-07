@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="logo.gif" align="right" width="25%">
 
 <!--
 **muhamedhassan007/muhamedhassan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
