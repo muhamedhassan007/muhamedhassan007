@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/muhamedhassan007/">
 <img align="center alt="Twitter" src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/Linkedin-Logo.png" width="7%" height="7%" >
 <a href="https://twitter.com/muhamed2711">
-<img align="center alt="Twitter" src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/twitter.jpg" width="50%" height="50%" >
+<img align="center alt="Twitter" src="https://github.com/muhamedhassan007/muhamedhassan007/blob/master/twitter.jpg" width="7%" height="7%" >
 
 
 <!-- </p> -->
